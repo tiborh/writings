@@ -3,6 +3,8 @@ Language Binds and Divides
 
 _Written for UQx: Write101x English Grammar and Style, peer review assignment 1 on 15 August 2015_
 
+(the full version)
+
 Language both binds and divides. Not only countries as the famous G.B. Shaw quote says (divided by a common language), but any two groups of people, big or small, down to individual level. It is always fascinating when native speakers go and settle in a different language community. How much their personal languages changes. How much they preserve of the linguistic characteristics of their original community and how much they take over from their new one. An interesting writing on this topic appeared in the [Guardian](http://www.theguardian.com/media/mind-your-language/2014/oct/10/mind-your-language-american-english).
 
 It is true that this double effect is the easiest to spot between speakers of different nations. Take the example of international companies. It gives a degree of comfort that if you speak English, you will understand people from offices in various countries: Canada, India, Ireland, Sweden, the U.S. etc. And there is no problem while it is written English. That is, e-mails. Text chatting is a different matter with all the common abbreviations being a little different in scope and frequency from country to country. You start thinking, for example, what the heck _BBS_ can be and when you realise that your chat partner's status turns to yellow, you have an inkling.
