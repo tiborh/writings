@@ -6,7 +6,6 @@ A hard question. And it looks differently from the two sides of the divide:
 1. are you a native speaker?
    1. how much grammar are you taught?
    2. how is grammar taught to you?
-   3. do you find it useful while learning it?
 2. is English a foreign language to you?
    1. do you learn English at school?
       1. regular school?
@@ -15,6 +14,7 @@ A hard question. And it looks differently from the two sides of the divide:
    2. do you just pick it up?
       1. among native speakers?
       2. during your studies or work?
+3. do you find it useful while learning it?
 
 As you can see there is some variation. And these are the factors that usually determine what your experience is with grammar. I remember my colleague from the US after he had borrowed David Crystal's _Rediscover Grammar_ for a weekend and he came back saying: I wish I had something like this a few decades earlier. The book helped him understand why something sounds better in one way than another. An intelligent summary broadens your perspective, giving the wider context of how language works. So, lots of native speakers would say: yes, we would need more grammatical knowledge than what we have; we would need to be more conscious users of the language.
 
