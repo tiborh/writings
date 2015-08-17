@@ -10,7 +10,7 @@ A hard question. And it looks differently from the two sides of the divide:
    1. do you learn English at school?
       1. regular school?
       2. language school?
-      3. private tutor?
+      3. from a private tutor?
    2. do you just pick it up?
       1. do you pick it up among native speakers?
       2. do you pick it up during your studies or work?
