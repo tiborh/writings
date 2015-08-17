@@ -6,6 +6,7 @@ A hard question. And it looks differently from the two sides of the divide:
 1. are you a native speaker?
    1. how much grammar are you taught?
    2. how is grammar taught to you?
+   3. do you find it useful while learning it?
 2. is English a foreign language to you?
    1. do you learn English at school?
       1. regular school?
