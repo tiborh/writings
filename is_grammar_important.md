@@ -12,8 +12,8 @@ A hard question. And it looks differently from the two sides of the divide:
       2. language school?
       3. from a private tutor?
    2. do you just pick it up?
-      1. do you pick it up among native speakers?
-      2. do you pick it up during your studies or work?
+      1. among native speakers?
+      2. during your studies or work?
 
 As you can see there is some variation. And these are the factors that usually determine what your experience is with grammar. I remember my colleague from the US after he had borrowed David Crystal's _Rediscover Grammar_ for a weekend and he came back saying: I wish I had something like this a few decades earlier. The book helped him understand why something sounds better in one way than in another. An intelligent summary broadens your perspective, giving the wider context. So lots of native speakers would say: yes, we would need more grammatical knowledge than what we have; we would need to be more conscious users of the language.
 
