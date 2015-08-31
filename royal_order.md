@@ -1,6 +1,8 @@
 The Royal Order
 ===============
 
+_used as an assigment (the second one) to "UQx: Write101x English Grammar and Style" on edx.org_
+
 The name, in itself, is an interesting one. I did not meet this expression before this course, even though I studied some linguistics at university. We always had the term without "royal", plain "order of adjectives". And I could not even find a credible explanation on the net either: why royal? (Two anecdotal examples: Queen's English has to have a Royal order, order of importance just like in a royal procession.) 
 
 And then, how do you meet it first? At school. While learning English. Foreign language learners of English linguistics usually dutifully learn it by heart and do the language drills and tests to prove they have internalised it, not much thinking about it: just another rule to know. By hindsight, it is amazing we did not ask the logical questions: does it exist in our mother tongue too? Is it different from English? I've tried a couple of searches for this effect too, but no luck. Probably, it is left to the linguistic intuition of the users in my language community. The reason of course can also be that my native language is not often taught to foreigners. And even those who learn it, have very similar language intuitions to ours.
