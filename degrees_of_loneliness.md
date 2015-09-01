@@ -35,3 +35,10 @@ Communication problems exacerbate. Now you find it more and more difficult to ex
 
 Seventh
 -------
+
+Only external reports are available about this stage. When one gets to this stage, you find it difficult to tell if the person is listening to you or not. Understands you or not. Only the simplest and most direct way of communication can get a response: one or two word sentences and when you are facing the person and stand close, or obvious gestures. When this person speaks, you rarely know if it is to you or to himself, or to the people in general.
+
+Zeroeth
+-------
+
+At this stage you are equally happy to be alone or in the company of others. Others usually find your company pleasant. They feel that you listen to them. And you really do. You can forget about yourself when talking to another person. You prefer listening to speaking. You are ready to help others but you rarely initiate interacton. Only when you read in the eyes of the other that they would prefer you start the conversation. This is the perfect opposite of loneliness and not what most people would think, which is stage one on this scale.
