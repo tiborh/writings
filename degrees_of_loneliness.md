@@ -31,7 +31,7 @@ A shadow of difficult times. When you are just beginning to enjoy your own world
 Sixth: Isolation
 ----------------
 
-Communication problems exacerbate. Now you find it more and more difficult to put your thoughts into words. In speech you need more time to put together the sentences than the others are prepared to wait patiently, in writing your sentences ring empty and void of your intended meaning after you have spent enormous amount of time creating them. But most of the time you simply cannot get around to write at all. At the same time you notice that you do not care about the mess and dirt that surround you. You do not care what you put on in the morning. If you do not look, you will not even remember the colour of your shoes or shirt (or which one you put on).
+Communication problems exacerbate. Now you find it more and more difficult to put your thoughts into words. In speech you need more time to put together the sentences than the others are prepared to wait patiently, in writing your sentences ring empty and void of your intended meaning after you have spent enormous amount of time creating them. But most of the time you simply cannot get around to writing at all. At the same time you notice that you do not care about the mess and dirt that surround you. You do not care what you put on in the morning. If you do not look, you will not even remember the colour of your shoes or shirt (or which one you put on).
 
 Seventh: Nuclear Winter
 -----------------------
