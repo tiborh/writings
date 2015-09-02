@@ -36,7 +36,7 @@ Communication problems exacerbate. Now you find it more and more difficult to pu
 Seventh: Nuclear Winter
 -----------------------
 
-Only external reports are available about this stage. When one gets this far, you find it difficult to tell if the person is listening to you or not. Understands you or not. Only the simplest and most direct way of communication can get a response: one or two word sentences and when you are facing the person and stand close, or obvious gestures. When this person speaks, you rarely know if it is to you or to himself, or to the people in general.
+Only external reports are available about this stage. When one gets this far, you find it difficult to tell if the person is listening to you or not. Understands you or not. Only the simplest and most direct way of communication can get a response: one or two word sentences and when you are facing the person and standing close enough, or making obvious gestures. When this person speaks, you rarely know if it is to you or to himself, or to the people in general.
 
 Zeroeth: Vestibule to Nirvana
 -----------------------------
