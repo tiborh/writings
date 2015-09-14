@@ -1,7 +1,7 @@
 Prepositions
 ============
 
-For learners who learn English as a foreign language, getting the prepositions right may be pretty tough at times.
+For learners who learn English as a foreign language, getting the prepositions right may be pretty tough at times. Some of the reasons why:
 
 The very structure of one's mother tongue can be utterly different: take the example of 
 [agglutinative languages](https://en.wikipedia.org/wiki/Agglutinative_language) where affixes (prefixes and/or 
