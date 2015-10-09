@@ -3,7 +3,7 @@ Marathon
 
 "Marathon?"
 
-"No, thank you. I do not want to die."
+"No, thank you. I don't wanna die."
 
 Sounds strange? Yes. But also logical. Pheidippides gave his life to carry the message back to Athens. (See the [Wikipedia article][1] for reference. I did the same.) We may remember Marathon without that ultimate sacrifice but we would never associate it with running. And we would definitely not remember his name. So, to run the perfect marathon, you need to end up dead at the end. (Don't waste you money on isotonic drinks. It takes the spice out of the soup.) If you make a compromise, it is not the real thing. But is it really a problem?
 
