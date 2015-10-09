@@ -9,7 +9,7 @@ Sounds strange? Yes. But also logical. Pheidippides gave his life to carry the m
 
 All the sports are like that. They fake something in order to save human life or to dramatically reduce fatalities. How much better is a game on a football pitch than a pitched battle between armed warriors? More casualties among the ultras than on the field.
 
-Another aspect is the distance. There is no way a seasoned runner, like Pheidippides, would die of a mere marathon. But previously he did a 150-miler. After that, the shorter one can be a problem.
+Another aspect is the distance. There is no way a seasoned runner, like Pheidippides, would die of a mere marathon. But previously he did a 150-miler. After that, the shorter one can be a killer. (may need some expansion in the future)
 
 So, no need to die. What a lucky thing. We have saved a few lives again.
 
