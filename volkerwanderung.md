@@ -1,7 +1,7 @@
 Völkerwanderung
 ===============
 
-Why am I using a historical name? There are at least two reasons. First, there is no agreement over what this phenomenon really is. Is it a refugee crisis? Is it a migration period? It all depends on the main motivation. If they are running for their lives, they are refugees. If they are coming to have a share in the luxuries of Western lifestyle, then they are migrants. But what if they have mixed reasons? What if there is not much difference between the strife to save your biological life and to have a life worth living?
+Why the use of a historical name? There are at least two reasons. First, there is no agreement over what this phenomenon really is. Is it a refugee crisis? Is it a migration period? It all depends on the main motivation. If they are running for their lives, they are refugees. If they are coming to have a share in the luxuries of Western lifestyle, then they are migrants. But what if they have mixed reasons? What if there is not much difference between the strife to save your biological life and to have a life worth living?
 
 One thing seems to be sure: lots of people have arrived and are going to come into Europe.
 
