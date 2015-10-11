@@ -1,6 +1,8 @@
 Völkerwanderung
 ===============
 
+_written for: BerkeleyX: ColWri2.1x How to Write an Essay on edx.org_
+
 Why the use of a historical name? There are at least two reasons. First, there is no agreement over what this phenomenon really is. Is it a refugee crisis? Is it a migration period? It all depends on the main motivation. If they are running for their lives, they are refugees. If they are coming to have a share in the luxuries of Western lifestyle, then they are migrants. But what if they have mixed reasons? What if there is not much difference between the strife to save your biological life and to have a life worth living?
 
 One thing seems to be sure: lots of people have arrived and are going to come into Europe.
@@ -14,11 +16,9 @@ Is it because they need a lot of money fast to help them get the full family ove
 
 ***What Was the Triggering Factor?***
 
-<ul>
-<li>The UN cut the daily support quota in the refugee camps in neighbouring countries. (reference is needed)</li>
-<li>International organisations started to distribute information materials how they can take advantage of the European welfare and legal system. (reference is needed)</li>
-<li>Loss of hope the bad times will ever end in their country. (reference is needed)</li>
-</ul>
+* The UN cut the daily support quota in the refugee camps in neighbouring countries. (reference is needed)
+* International organisations started to distribute information materials how they can take advantage of the European welfare and legal system. (reference is needed)
+* Loss of hope the bad times will ever end in their country. (reference is needed)
 
 Do we know anything of the national composition of the immigrants?
 
