@@ -20,6 +20,10 @@ How can We Live Together?
 
 If they decide to stay, how much integration can you expect from them? Is integration merely a legal issue or does it have anything to do with culture and customs?
 
+Once they become citizens in the land, can they bring their culture and legal system? How can a country operate where theie are parallel legal and value systems? What about conflicting laws and values?
+
+Or does it all depend on how much weight in numbers they are going to represent?
+
 Summmary
 --------
 
