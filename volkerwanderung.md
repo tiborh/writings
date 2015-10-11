@@ -42,7 +42,9 @@ There are two obvious extremes: zero and all. We should be able to give a good e
 
 How can governments face their minorities (e.g. the Roma population) if they spend more on and pay more attention to the newcomers?
 
-***What Say do the Natives in Europe Have?***
+***What Say does the Native Population of Europe Have?***
+
+Which will be the stronger? Moral obligation or fear of losing something precious?
 
 The far right is rising as a result of the sudden influx of foreign people. (supporting data are needed) The fears of the inhabitants fuel their ascent. It would be much better to have the questions discussed publicly and let the people have their say in policies.
 
