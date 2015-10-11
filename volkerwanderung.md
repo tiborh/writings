@@ -40,6 +40,8 @@ Or does it all depend on how much weight in numbers they are going to represent?
 
 There are two obvious extremes: zero and all. We should be able to give a good estimate of how many people can we accept but the question is for how long? How much effort and resource should be allocated? Do we feel up to the task? How much support can a government have from voters? How long will be the patience of the populace?
 
+How can governments face their minorities (e.g. the Roma population) if they spend more on and pay more attention to the newcomers?
+
 ***What Say do the Natives in Europe Have?***
 
 The far right is rising as a result of the sudden influx of foreign people. (supporting data are needed) The fears of the inhabitants fuel their ascent. It would be much better to have the questions discussed publicly and let the people have their say in policies.
