@@ -48,6 +48,11 @@ Which will be the stronger? Moral obligation or fear of losing something preciou
 
 The far right is rising as a result of the sudden influx of foreign people. (supporting data are needed) The fears of the inhabitants fuel their ascent. It would be much better to have the questions discussed publicly and let the people have their say in policies.
 
+***Dichotomies***
+
++ Greed vs generocity (sharing the advantages)
++ Helpfulness vs fear
+
 Summmary
 --------
 
