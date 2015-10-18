@@ -1,4 +1,4 @@
-Völkerwanderung
+Völkerwanderung*
 ===============
 
 _written for: BerkeleyX: ColWri2.1x How to Write an Essay on edx.org_
@@ -34,6 +34,7 @@ The third problem therefore is the impact on native inhabitants of the host coun
 
 To sum up, it seems we are treading on dangerous fields. 
 
+* A reference to the Migration Period that weakened the Roman Empire and eventually caused the collapse of the Western Roman empire.
 [1] John Ronald Reuel Tolkien: The Hobbit, or There and Back Again, 1937, 1951
 [2]: http://news.yahoo.com/finlands-no-good-disappointed-migrants-turn-back-152042061.html
 [3]: http://www.meforum.org/2107/europe-shifting-immigration-dynamic
