@@ -4,7 +4,7 @@ Völkerwanderung[*]
 _written for: BerkeleyX: ColWri2.1x How to Write an Essay on edx.org_
 
 Only one thing seems to be certain: thousands of people have been entering Europe daily for many months now.
-Beyond that, nothing seems to be certain. There is no agreement on how to name them: 
+Beyond that, nothing seems to be certain. There is no agreement on how to name them[**]: 
 
   + migrants,
   + immigrants,
@@ -35,7 +35,11 @@ The third problem therefore is the impact on native inhabitants of the host coun
 
 To sum up, it seems Europe is treading on dangerous fields. Outright rejection is almost sure that causes harm in at all three parties: in the rejected, in the host who finally accepts the rejected, and in the rejector. Acceptance can also have its adverse effects if it is done in a half-hearted way, that is, if it is not carried through. No one can say that there will be no difficulties as the example of Jordan shows[[8]]. But that example also seems to be a proof that it is doable.
 
+---
+
 [*] A reference to the Migration Period that weakened the Roman Empire and eventually caused the collapse of the Western Roman empire.
+
+[**] Sorry for the long lists. They are the remnants of some previous failed attempts.
 
 [1]: https://en.wikipedia.org/wiki/The_Hobbit
 [2]: http://news.yahoo.com/finlands-no-good-disappointed-migrants-turn-back-152042061.html
