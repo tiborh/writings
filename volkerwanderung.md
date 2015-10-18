@@ -53,7 +53,7 @@ The far right is rising as a result of the sudden influx of foreign people. (sup
 + Greed vs generocity (sharing the advantages)
 + Helpfulness vs fear
 
-Summmary
+Summary
 --------
 
 A hard nut to crack.
