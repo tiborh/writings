@@ -21,6 +21,6 @@ Beyond that, nothing seems to be certain. Various explanations exist. The debate
   + send them back where they came from, 
   + not let them enter Europe at all.
 
-This is not the first attempt at this essay. The previous ones have all fallen apart when more and more elements of the complexity soup burdened them down. So I had to decide what aspect to pick out as the topic of this writing. The best clue arrived when I remembered the several debates we had around the round table in the lunch room and on Facebook. The for and against always reminded me of the Hobbit world: can we preserve the calm and piece of The Borough or not? Can we shut out the turmoil of the outside world? Do we want to attempt that?
+This is not the first attempt at this essay. The previous ones have all fallen apart when more and more elements of the complexity soup burdened them down. So I had to decide what aspect to pick out as the topic of this writing. The best clue arrived when I remembered the several debates we had around the round table in the lunch room and on Facebook. The for and against always reminded me of the Hobbit world: can we preserve the calm and piece of The Shire[1] or not? Can we shut out the turmoil of the outside world? Do we want to attempt that?
 
-
+[1] John Ronald Reuel Tolkien: The Hobbit, or There and Back Again
