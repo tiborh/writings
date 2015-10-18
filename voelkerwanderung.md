@@ -19,4 +19,5 @@ Beyond that, nothing seems to be certain. Various explanations exist. The debate
   + be indifferent towards them, 
   + send them back where they came from, 
   + not let them enter Europe at all.
+
 So the question is extremely complex.
