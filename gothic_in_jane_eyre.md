@@ -3,7 +3,7 @@ Elements of Gothic Fiction in Charlotte Brontë's Jane Eyre
 
 *Written for _BerkeleyX: ColWri3.10x "Jane Eyre" by Bronte: BerkeleyX Book Club_ on Edx.org, week 2*
 
-Although great fiction cannot remain among the bounds of a genre, it grows out from it and the elements of that genre can be pointed out in it, even if the work in question may divert from them at one point. This is great in Romantic fiction too: it grows out from Gothic fiction and shows its elements, but Romantic fiction is not one hundred percent Gothic. For this reason, it is relatively easy to point out how the author in Jane Eyre uses these elements as starting points but also how she departs from them to encode her own message into the novel.
+Although great fiction cannot remain among the bounds of a genre, it grows out from it and the elements of that genre can be pointed out in it, even if the work in question may divert from them at one point. This novel is great in Romantic fiction too: it grows out from Gothic fiction and shows its elements, but Romantic fiction is not one hundred percent Gothic. For this reason, it is relatively easy to point out how the author in Jane Eyre uses these elements as starting points but also how she departs from them to encode her own message into the novel.
 
 The comparisons in the following sections will be made with Wikipedia's [Elements of Gothic fiction](https://en.wikipedia.org/wiki/Gothic_fiction#Elements_of_Gothic_fiction).
 
