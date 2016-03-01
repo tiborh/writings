@@ -55,4 +55,4 @@ eccentric romantic poet. She cannot help it when she comes through as a half-suc
 of the cultured Victorian. His affectation and pretentions of knowledge and high culturedness are tiresome.
 He notices no one but himself and perhaps wants everyone to confirm to something he himself cannot meet.
 
-* _Freddy Honeychurch_ ... to complete
+* _Freddy Honeychurch_ ... to be completed
