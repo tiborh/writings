@@ -1,7 +1,7 @@
 Can a Book be Moral or Immoral?
 ===============================
 
-It has always been a hard question if a piece of art can be moral or immoral. A lot seems to depend on 
+It has always been a hard question whether a piece of art can be regarded as moral or immoral. A lot seems to depend on 
 the context. Let's go through a thought experiment: what if Hitler, after writing _Mein Kampf_, realised:
 "How stupid this piece of sh*t is!" "How muddled my ideas have been!"? And what if he started to
 change both his thinking and his way of life thanks to writing something out, and reading his own work? Would
