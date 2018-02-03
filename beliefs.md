@@ -27,5 +27,5 @@
   * Your actions, experiences, and beliefs form a feedback circle and therefore have impact on each other.
 * A blind, unquestioning belief gives you more power to work for its "materialisation" than being more 'realistic'
   and 'doubtful'.
-* Those people who divide beliefs between God- or Nature-given truths and beliefs, will take you as a heretic if you are 
-  incapable of making such a distinction. (If you cannot draw the line.)
+* Those people who divide beliefs between God- or Nature-given truths and beliefs, will take you as a heretic, cynic or 
+  nihilist if you are incapable of making such a distinction. (If you cannot draw the line.)
