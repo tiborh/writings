@@ -15,6 +15,9 @@
     much easier to format your brain to adapt to them then to translate between your and the community belief systems
     all the time. (the usage and maintenance of such an interpreter eats up too much energy you can spend on more useful things,
     also, such an interpreter can prevent you from looking spontaneous, native inhabitant of your chosen sphere)
+  * from developmental point of view, everyone is brought up in a belief system (we are socialised into one), and as a sign of
+    growing up there comes a revision of the 'accepted beliefs'. Of course most of the beliefs are accepted (or they just creep
+    back as one is getting older) and only a fraction is changed (often diametrically, as a kind of protest or rebellion)
 
 ## The Creative Belief
 
