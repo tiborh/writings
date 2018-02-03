@@ -27,5 +27,7 @@
   * Your actions, experiences, and beliefs form a feedback circle and therefore have impact on each other.
 * A blind, unquestioning belief gives you more power to work for its "materialisation" than being more 'realistic'
   and 'doubtful'.
+  * the seer does not have power over the blind unless he can open the blind's eye
+  * by opening the blind's eye can decrease the level of motivation of the former blind unless you give them new beliefs
 * Those people who divide beliefs between God- or Nature-given truths and beliefs, will take you as a heretic, cynic or 
   nihilist if you are incapable of making such a distinction. (If you cannot draw the line.)
