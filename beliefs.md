@@ -10,7 +10,8 @@
 * Even the belief that nothing is worth believing in is a mere belief.
 * Wisdom means that you have a well-selected, more or less congruent system of beliefs which are deeply embedded in your daily 
   routines, personal habits, activities and human relationships.
-  * the ability to believe in contradictory and incongruent ideas can save your brain from getting into infinite loops
+  * the ability to believe in contradictory and incongruent ideas can save your brain from getting into infinite loops of
+    changing the individual items of faith so that they fit together smoothly (without any contradiction)
   * somewhere deep down your brain knows that they are mere models or theories of how you try to find meaning, that is,
     to mentally construct or reflect the outside world. (mental representation)
 * Some beliefs you accept not because you are convinced that they are true but because you would like to belong to a group of
