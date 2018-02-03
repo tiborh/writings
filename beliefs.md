@@ -1,7 +1,11 @@
 # Beliefs
 
-* Everything in the human mind is a belief, a mental construct we attribute a certain level of probability to.
+* Everything in the human mind is an impression (memory) or a belief, a mental construct we attribute a certain level of
+  probability to.
   * 100% probability means that we accept it as truth and not a belief
+  * the retention and the ability to recall recorded data (in/of the human mind) is greatly helped by narratives and beliefs
+    they are embedded in. It is easier to recall an event or experience if it is part of a greater whole or is associated
+    with strong (mostly negative) emotions
 * Even the proposition that 'everything is a belief' is a belief. (you cannot delve deeper than this recursive thought)
 * Even the belief that nothing is worth believing in is a mere belief.
 * Wisdom means that you have a well-selected, more or less congruent system of beliefs which are deeply embedded in your daily 
