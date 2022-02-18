@@ -13,7 +13,7 @@ One Christmas, apart from the usual kitchen gadgets and utensils, clothes, and f
 
 After a while, the doll appeared in her dreams, too. There, they could talk to each other. The doll turned out to be philosophical and poetic. A pragmatist as a philosopher, and a metrephile in poetry. So, the old lady stopped worrying when one of her daughters skipped a weekly call, or two.
 
-In the end, the old lady died (would you like her 'to pass away'? you can read it that way too if you are that sensitive) and her possessions got sold, except for the doll, who was sitting on the coffin during the wake.
+In the end, the old lady died (would you like her 'to pass away'? you can read it that way too if you are that sensitive) and her possessions got sold, except for the doll, for her dauthers knew how attached she became to her, who was sitting on the coffin during the wake.
 
 A little girl and her mother also paid their respects. And she liked the doll very much. She could not take her eyes of her. So, her mother received custody over the doll till her daughter grew up enough to be able to take proper care of it.
 
