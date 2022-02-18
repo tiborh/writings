@@ -30,7 +30,9 @@ The doll has acquired a new skill.
 
 The little girl grew up to become a child psychologist. The doll was her assistant. Most little patients liked to have her in their laps: she helped them talk and feel cosy and relaxed. For these children, the doll became a dream fairy, who helped them have a soul-healing dream. A new skill, again.
 
-But the doll could not prevent her owner from dying in her sleep, quite unexpectedly, in an undiagnosed weakness of the heart. Can dolls feel sad?
+But the doll could not prevent her owner from dying in her sleep, quite unexpectedly, in an undiagnosed weakness of the heart.
+
+Can dolls feel sad?
 
 
 ## 三 ##
