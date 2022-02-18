@@ -41,7 +41,7 @@ After the death of her second owner, the doll decided to go into the world and t
 
 One evening, she entered a town. The streets were deserted. It seemed the people locked up and went to bed quite early. Luckily, she found an inn open and she could take out a room for the night. Everyone seemed sad, slow-moving, and melancholy. 
 
-The next day, only the sun was bright. The town was draped and the people were dressed in black and they, the people, mind you, seemed to be mourning some great loss. But the doll knew the reason, which appeared in her dream: a big toad at the bottom of the well in the centre of the town. This toad spread darkness in the hearts of the people through the water in the well. The doll waited till the evening, when the square became deserted and lowered herself into the depth of the well. She greeted the toad and asked him if he would like her to kiss him.
+The next day, only the sun was bright. The town was draped and the people were dressed in black and they, the people, mind you, seemed to be mourning some great loss. But the doll knew the reason, which appeared in her dream: a big toad at the bottom of the well in the centre of the town. This toad spread darkness in the hearts of the people through the water in the well. The doll waited till the evening, when the square became deserted, and lowered herself into the depth of the well. She greeted the toad and asked him if he would like her to kiss him.
 
 'Yes,' replied the toad with a wide and wild smile, 'that would be great'.
 
