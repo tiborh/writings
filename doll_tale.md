@@ -72,6 +72,6 @@ When the eldest ones of her care grew up and matured enough to take over from he
 
 ## 五 ##
 
-After about a further year or so of roving the roads of the country, she reached the edge of a forest, and decided to continue among the trees. In the heart of the thick, she came across a dilapidated shrine. No statue, the name worn off, illegible. It took her some time but she restored the abode and reclaimed a little courtyard and garden around out it. On the pedestal she chiselled 'Sopora', and took her place as a kami (神).
+After about a further year or so of roving the roads of the country, she reached the edge of a forest, and decided to continue among the trees. In the heart of the thick, she came across a dilapidated shrine. No statue, the name worn off, illegible. It took her some time but she restored the abode and reclaimed a little courtyard and garden around it. On the pedestal she chiselled 'Sopora', and took her place as a kami (神).
 
 __終__
