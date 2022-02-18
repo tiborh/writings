@@ -22,7 +22,7 @@ A little girl and her mother also paid their respects. And she liked the doll ve
 
 It was when she started to go to school. She was a serious and conscientious little girl, so she could be trusted with its care. And as most precocious children, she could also be trusted to be bullied at school.
 
-The doll, therefore, continued to have someone who talked to her while she was awake and who she could converse with in the world of dreams. And she could even expand her soporal acquaintances. Returning nightmares can scare away most bullies. As a result, the little girl was mostly left alone and sometimes even revered as a mysterious witch, whose golem can take revenge.
+The doll, therefore, continued to have someone who talked to her while she was awake and who she could converse with in the world of dreams. And the doll could even expand her soporal acquaintances. Returning nightmares can scare away most bullies. As a result, the little girl was mostly left alone and sometimes even revered as a mysterious witch, whose golem can take revenge.
 
 However, one day, there appeared an obstinate bully transferred from another school, who, even after sleepless nights spent turning round and round on a rubber bed sheet, next to a bedside lamp left switched on, and with dark circles around her eyes during the day, which she could hardly keep open, except for the fear of her scary tormentor. Yet, she simply could not give up taking it all out on someone weaker. In the end, she nodded off in the worst possible moment in her final exhaustion and ended up bruised, broken, and dead.
 
