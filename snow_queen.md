@@ -54,25 +54,25 @@ Snow Queen
    stays behind, she has already had enough of the cooling air.
 9. The guide and the father carrying the daughter leave through a
    portal, after which the temperature starts to rise.
-10.The trio are joined by the restored warrior golem and the small
+10. The trio are joined by the restored warrior golem and the small
    golems and they start their journey north to the realm of the snow
    queen. (some adventures can happen on the way if you are into such
    things))
-11.The queen lives on an island in an ice castle, the huge lake around
+11. The queen lives on an island in an ice castle, the huge lake around
    the castle is frozen but if anyone attempts to cross uninvited,
    the ice opens up and the freezing water swallows them up.
-12.The small group settles down on the lake shore and light a small
+12. The small group settles down on the lake shore and light a small
    fire, waiting for a sign from the snow queen. The sign is that
    sparks start to fly around from the fire and freeze in mid-air,
    falling to the ground with crystal-like tings.
-13.They notice the queen standing on the shore on the island. The
+13. They notice the queen standing on the shore on the island. The
    guide stands facing her, they both raise their arms and a bridge of
    ice forms between them.
-14.They all cross the bridge, the queen takes them into the castle,
+14. They all cross the bridge, the queen takes them into the castle,
    revives the girl, who does not recognise her father as her father
    but strangely remembers his name when he reintroduces himself to
    her.
-15.The queen says that the girl will become her daughter, acolyte,
+15. The queen says that the girl will become her daughter, acolyte,
    and heiress (after she leaves to the realm beyond). And the
    father, if he can accept that the old emotional bond between them
    is gone, can remain as a co-tutor of the girl, and can teach her
