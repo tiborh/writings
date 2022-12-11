@@ -46,7 +46,7 @@ Snow Queen
    her up, she will turn completely frozen and then the queen appears,
    the temperature is already dropping around them, and most of the
    island will be destroyed if she steps on it.
-9. The guide also explains that when the daughter gets reawoken up by the
+9. The guide also explains that when the daughter gets reawakened by the
    queen, she will remember all her past only in a patchy way, she
    won't recognise her parents as parents and won't remember any
    emotions from her past, only memory fragments will remain, just
