@@ -3,9 +3,9 @@ Snow Queen
 
 (a sketch)
 
-1. Family (Mother/Father/Daughter (other child/children?)) get a free
-   holiday on a tropical island.
-2. They accept an leave. The mother likes tropical places for holiday
+1. A family (Mother/Father/Daughter) get a free holiday on a tropical
+   island.
+3. They accept an leave. The mother likes tropical places for holiday
    destinations. The father and daughter would prefer cold
    destinations in the north.
 3. A tour guide shows them around on the island. The mother spends most
