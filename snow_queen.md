@@ -3,8 +3,9 @@ Snow Queen
 
 (a sketch)
 
-1. A family (Mother/Father/Daughter) get a free holiday on a tropical
-   island.
+1. A family (Mother/Father/Daughter) win a free holiday on a tropical
+   island. (An anonymous benefactor pays for the journey, which is not
+   included in the prize.)
 3. They accept an leave. The mother likes tropical places for holiday
    destinations. The father and daughter would prefer cold
    destinations in the north.
