@@ -6,8 +6,7 @@
 
 | Myth | Allegory |
 |------|----------|
-| A culturally rooted story that people *believe* to be true, or treat as the “real” explanation of a world‑making phenomenon (origins, gods, spirits, moral codes). | A consciously crafted
- narrative whose surface events stand for a deeper, usually moral, political or philosophical truth. It is a literary device, not a “real” story. |
+| A culturally rooted story that people *believe* to be true, or treat as the “real” explanation of a world‑making phenomenon (origins, gods, spirits, moral codes). | A consciously crafted narrative whose surface events stand for a deeper, usually moral, political or philosophical truth. It is a literary device, not a “real” story. |
 | Usually ancient, often supernatural, orally transmitted, with a mix of history and legend. | Can be modern or ancient, can be fable, parable, novel, comic, etc. |
 | Its point is to *explain* or *justify* a belief system, a practice, or a natural occurrence. | Its point is to *illustrate* an abstract idea or critique a real situation. |
 
