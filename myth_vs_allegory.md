@@ -48,12 +48,9 @@
 
 | Situation | Explanation | Example |
 |-----------|-------------|---------|
-| **A myth treated allegorically** | Scholars or readers look beyond the surface to find a hidden moral/ideological pattern. | Many interpret the **Greek tragedy of Icarus** as a cautionary
- allegory of over‑ambition. |
-| **An allegory that uses mythic motifs** | The writer adopts mythic characters or scenes because they are recognizable symbols. | **“The Neverending Story”** uses the hero’s journey trope;
- the “Second Star to the Right” is metaphorical, not real. |
-| **A modern myth that is also an allegory** | A story that becomes a cultural narrative while also carrying symbolic meaning. | The story of *Winnie‑the‑Pooh*: cherished children’s myth
- plus a gentle allegory about friendship. |
+| **A myth treated allegorically** | Scholars or readers look beyond the surface to find a hidden moral/ideological pattern. | Many interpret the **Greek tragedy of Icarus** as a cautionary allegory of over‑ambition. |
+| **An allegory that uses mythic motifs** | The writer adopts mythic characters or scenes because they are recognizable symbols. | **“The Neverending Story”** uses the hero’s journey trope; the “Second Star to the Right” is metaphorical, not real. |
+| **A modern myth that is also an allegory** | A story that becomes a cultural narrative while also carrying symbolic meaning. | The story of *Winnie‑the‑Pooh*: cherished children’s myth plus a gentle allegory about friendship. |
 
 In literary criticism, scholars often speak of *myth‑allegory* hybrids. The distinction is thus *function* and *intent* more than structure.
 
