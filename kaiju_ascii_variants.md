@@ -95,3 +95,76 @@ depends on the font. Test how it renders for you.)
 
 Pick whichever feels right (or mix elements — e.g. face from B with
 legs from C) and I'll drop it into `kaiju_no8_alternatives.md`.
+
+---
+
+# Dot-Style Variants (inspired by emojicombos.com)
+
+The reference page (https://emojicombos.com/Kaiju-No-8-ascii-art) is
+built almost entirely from **Braille dot art** — Unicode Braille
+patterns (⣿ ⠿ ⢰ …) used like grayscale pixels. Below are a few pieces
+in that spirit.
+
+**Caution:** Braille dot art can drift on GitHub. Braille glyphs are
+nominally monospace, but many fonts render them at slightly different
+widths than ASCII, so alignment is less reliable than the pure-ASCII
+variants above. Test how these look for you before committing.
+
+---
+
+## Variant G — Dotted / stippled kaiju head (light shading)
+
+```
+      .:::::.
+    .:'  _  ':.
+   ::  .' '.  ::
+   :: ( o o ) ::
+    ':.  ^  .:'
+   .::'\WWW/':::.
+  ::: . K-8 . :::
+   ':::.....:::'
+     '::: :::'
+    .-'     '-.
+```
+
+---
+
+## Variant H — Braille blob kaiju (small)
+
+```
+⠀⠀⢀⣤⣶⣶⣤⡀⠀⠀
+⠀⣰⣿⠟⠻⠟⢿⣿⣆⠀
+⢠⣿⡏⢰⡆⢰⡆⢹⣿⡄
+⢸⣿⡇⠈⠛⠛⠁⢸⣿⡇
+⠸⣿⣷⣄⠈⠁⣠⣾⣿⠇
+⠀⠹⣿⣿⣿⣿⣿⣿⠏⠀
+⠀⠀⠈⠛⠿⠿⠛⠁⠀⠀
+```
+
+(Braille art — best viewed in a font with even Braille spacing.)
+
+---
+
+## Variant I — ASCII "dot texture" kaiju (safer than Braille)
+
+Uses only ASCII punctuation to get a stippled look, so it keeps
+alignment everywhere:
+
+```
+      ..:*#*:..
+    .:*#=---=#*:.
+   :*=  o   o  =*:
+  :#=    ...    =#:
+  :#=  \VVVVV/  =#:
+   :*=  K - 8  =*:
+    ':*#=---=#*:'
+       ':***:'
+     .:*     *:.
+    (___)   (___)
+```
+
+---
+
+If one of the dotted styles reads well after you screenshot it, I'll
+place it in `kaiju_no8_alternatives.md`. Otherwise I'd recommend the
+pure-ASCII options for guaranteed alignment.
