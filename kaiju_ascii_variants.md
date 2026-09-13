@@ -5,6 +5,23 @@ preserved). Each is built around a single center axis so the top and
 bottom halves line up. They're intentionally more compact than the
 first attempt — less empty interior space.
 
+## Lessons learned (verified on GitHub)
+
+- **Pure ASCII line art aligns reliably** everywhere.
+- **Braille dot art works too** — variant H rendered cleanly and stayed
+  aligned in a GitHub screenshot, so Braille is a viable style here.
+- **Wide, spacious designs drift and look sparse.** The very first
+  attempt (large, lots of interior gaps) leaned/misaligned; compact
+  designs with a single center axis hold up much better.
+- **Never mix double-width CJK glyphs inside ASCII art** — it breaks
+  column alignment. Keep kanji on their own line (see below).
+- **Kanji title line balances above a spaced Latin caption.** Placing
+  `怪 獣 8 号` above `K A I J U` works, but kanji are double-width so
+  centering is by eye, not character count. Final balance in
+  `kaiju_no8_alternatives.md` used **8 leading spaces** for the kanji
+  line vs the caption — confirmed in both a text editor and on GitHub.
+- **Chosen for the document: variant A** (horned skull mask, ASCII).
+
 ---
 
 ## Variant A — Compact head (small, dense)
