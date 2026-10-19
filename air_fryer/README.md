@@ -1,6 +1,6 @@
 ---
 document_type: beginner_guide_and_knowledge_base
-updated: 2026-10-17
+updated: 2026-10-19
 appliance: Tefal Easy Fry XL Surface
 exact_model_reference: null
 manual_reference: 1820013535/02
@@ -21,7 +21,9 @@ official manual. Read the appliance's supplied safety instructions as well.
 | Document | Purpose |
 | --- | --- |
 | [This guide](README.md) | Shared fundamentals, model controls, source register and current conclusions |
-| [Learning log](easy_fry_learning.md) | Almond observations and storage; planned walnut/cashew chapter; missing data and next trials |
+| [Learning log](easy_fry_learning.md) | Almond and walnut results, storage, sensory observations; cashew plan and missing trial parameters |
+| [Reheating refrigerated rice](reheating_rice.md) | 2026-10-18 assessment: unverified cold glass not recommended for fryer; conditional microwave alternative and rice safety |
+| [Microwave knowledge base](../microwave/README.md) | Corrected model: Gorenje MO 4250 CLI, 700 W microwave / 800 W grill; English manual available; earlier references superseded |
 | [English manual transcription](tefal_easy_fry_xl_surface_manual_en.md) | Primary reference; English printed pages 2-8, tables and attribution |
 | [Secondary cooking guide](tefal_easy_fry_xl_surface_secondary_guide.md) | Preserved conversion of the saved Manuals.plus material; contains discrepancies |
 
@@ -29,21 +31,22 @@ The original PDF and ODT remain outside this repository in the supplied
 manuals directory. They have not been moved or modified. External recipe
 pages are linked and summarised here, not archived in full.
 
-## Resume here: session handoff, 2026-10-17
+## Resume here: session handoff, updated 2026-10-19
 
 - First-use cleaning was confirmed completed before the first heating.
   The first almond experiment is now completed; do not treat the appliance
   as still awaiting its first heating.
 - Reported almond findings: good aroma, white to slightly brown centres,
-  and difficulty judging the interior through the window. Actual settings
-  and the fully cooled taste/crunch assessment remain unreported, not
-  established successes.
+  and difficulty judging the interior through the window. Follow-up:
+  cooled taste and smell were described as perfect for almonds and walnuts.
+  Actual almond settings and a separate crunch assessment remain unreported.
 - Storage guidance is recorded. No actual storage container or storage
   outcome has been reported.
-- Next options are a controlled almond follow-up or the separate planned
-  `walnuts-001` / `cashews-001` trials. Neither new nut has been tested here.
-  Confirm their labels/preparation and the appliance's exact reference
-  before filling those unknowns.
+- `walnuts-001` is completed: more than 100 g, possibly near 200 g, in a
+  single layer; 4 + 2 + 2 min = 8 min; mixed whitish/brownish colour and
+  excellent cooled taste/smell. Temperature, preset and preheat are unknown.
+  `cashews-001` remains planned. Confirm product details, actual settings
+  and the appliance's exact reference before filling those unknowns.
 - All supplied web links are registered below, including the inaccessible
   Mahnaz Food page. No further access attempts are needed to use this guide.
 - Start a later session with this guide, then read the learning log.
@@ -64,6 +67,11 @@ pages are linked and summarised here, not archived in full.
 When sources disagree, preserve the disagreement rather than silently
 combining values. A preset default, a manual recipe-table entry and a
 successful personal setting are different things.
+
+For future recommendations, consider the available
+[microwave](../microwave/README.md), not just the air fryer. Moist
+leftovers may suit microwave reheating better; crisping and nut roasting
+generally favour the air fryer. Check container compatibility either way.
 
 ## 1. What an air fryer does
 
@@ -239,8 +247,9 @@ centres ranged from white to slightly brown. The light/window did not
 reliably reveal interior roast level.
 
 **Unknown [E1]:** actual mass, preset, temperature, preheat, final cooking
-time, shake/check times, changes during the trial, and final cooled
-flavour/crunch. The proposed table above must not be promoted to a tested
+time, shake/check times, changes during the trial, and separate crunch
+assessment. Follow-up on 2026-10-19 described cooled almond and walnut taste
+and smell as perfect. The proposed table above must not be promoted to a tested
 successful recipe without those details.
 
 **Proposed next comparison:** if cooled flavour is too light, repeat the
@@ -294,15 +303,28 @@ not establish a tested shelf life. For the current small almond batch,
 the packet's advice; roasting does not reset freshness or salvage rancid
 nuts. See the learning log for the full storage note.
 
-### Planned extension: walnuts and cashews
+### Walnut result and planned cashew extension
 
-See [Chapter 2](easy_fry_learning.md#chapter-2-walnuts-and-cashews-planned).
-Both trials are **planned, not tested**: separate 100 g single-layer
-batches, plain unroasted kernels, Cookies overridden to 150 C, 3-minute
-preheat. Proposed initial timers are 4 min for walnut halves and 6 min for
-whole cashews; inspect/redistribute at 3 min and extend only as needed in
-1-minute steps. These are inspection schedules, not verified finish times.
-Confirm the product labels and record hot/cold appliance start.
+See [Chapter 2](easy_fry_learning.md#chapter-2-walnuts-and-cashews).
+**Observed:** walnuts were roasted in one layer, more than 100 g and perhaps
+near 200 g, for 4 + 2 + 2 min (8 min total). Some areas were brownish,
+others whitish; exposed kernel areas made this easier to see than with
+almonds. Cooled taste and smell were described as perfect. Actual
+temperature, preset, preheat and redistribution remain unknown: do not
+equate this with a verified 150 C recipe.
+
+**Proposed, not tested:** cashews remain a separate 100 g single-layer
+trial, plain unroasted kernels, Cookies overridden to 150 C, 3-minute
+preheat. Initial timer 6 min; inspect/redistribute at 3 min and extend only
+as needed in 1-minute steps. This is an inspection schedule, not a verified
+finish time. Confirm the product label and record hot/cold appliance start.
+
+**Sensory observation:** after both almond and walnut roasting, the user
+found immediate aroma assessment difficult, attributed to becoming
+accustomed to cooking smells. Cooling and a break away from the aromas
+helped reassessment; outside air and water were suggested personally, not
+established as a physiological reset. Do not extend roasting merely because
+the aroma seems faint while standing beside the appliance.
 
 ## 9. Recording future experiments
 
@@ -363,7 +385,7 @@ Recipe pages are secondary guidance, not Tefal validation.
 | Q1 | [Utah State University Extension: how to roast nuts and seeds](https://extension.usu.edu/archive/how-to-roast-nuts-and-seeds) | Cooling before airtight storage; published storage estimates | Oven guidance, not an air-fryer recipe or measured shelf life for our batch |
 | R5 | [Mahnaz Food: everything you need to know about roasted almond nuts](https://www.mahnazfood.com/blogs/blog/everything-you-need-to-know-about-roasted-almond-nuts) | Unreviewed candidate; unavailable to both assistant and user | Assistant fetch returned HTTP 429 on 2026-10-17; user reported browser access denied the same day; no relevant indexed result found; no claims adopted |
 | R6 | [FreshSenseHub: roasted almonds shelf life and storage](https://freshsensehub.com/roasted-almonds/) | Supports airtight, cool, dark storage and checking for quality deterioration; accessible HTML reviewed | Intro-only simplified extraction; raw HTML reveals conflicting 1-4 month freshness claim and over-3-month "expired" stage; calendar-based safety labels and suggested use of bitter nuts in baking are not adopted |
-| E1 | [Almond learning log](easy_fry_learning.md) | Actual reported aroma, centre variation and visibility limitation | Actual cooking parameters and cooled taste/crunch remain unreported |
+| E1 | [Nut learning log](easy_fry_learning.md) | Almond/walnut colour variation; walnut 8-min sequence and approximate load; excellent cooled taste/smell; sensory-assessment observation | Almond settings and walnut temperature/preset/preheat remain unknown; crunch not separately reported |
 
 Specific reconciliations:
 

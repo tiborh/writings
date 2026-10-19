@@ -73,8 +73,8 @@ Let a sample cool before tasting. Cool the batch fully before airtight storage.
 | Aroma | Almonds smell good |
 | Colour and evenness | Split centres range from white to slightly brown; some variation between almonds |
 | Visibility during roasting | Exterior appearance does not reliably reveal how roasted the centre is, even with the appliance light on |
-| Flavour and crunch after complete cooling | Not yet reported |
-| Outcome | Encouraging first result based on aroma; final taste/crunch assessment still open |
+| Flavour and crunch after complete cooling | Follow-up reported 2026-10-19: cooled taste and smell described as perfect for both almonds and walnuts; crunch not separately reported |
+| Outcome | Successful cooled flavour/aroma according to follow-up; actual cooking settings remain unconfirmed |
 | Adjustments made during this trial | Not reported |
 | One change to try next time | Keep temperature unchanged and add 1 minute to the actual total time used in this trial |
 
@@ -136,10 +136,11 @@ refrigeration/freezing for longer storage.
 also specifies cooling before airtight storage; its longer published
 storage estimates are not a verified shelf life for this batch.
 
-## Chapter 2: walnuts and cashews (planned)
+## Chapter 2: walnuts and cashews
 
-Status: **planned, not tested**. No results or successful settings are
-established for either nut in this appliance.
+Status updated 2026-10-19: **walnuts-001 completed, cashews-001 still
+planned**. The original plan is preserved below, followed by the actual
+walnut record. Actual walnut temperature, preset and preheat are unconfirmed.
 
 ### Aim and source assessment
 
@@ -157,7 +158,7 @@ Its main recipe gives 150 C for 10-15 minutes, whereas its FAQ says
 It is not a Tefal-specific trial. Do not adopt its longest time without
 checking, and do not treat preheating or seasoning as universally essential.
 
-### Proposed trials: walnuts-001 and cashews-001
+### Original proposed trials: walnuts-001 and cashews-001
 
 These conservative inspection schedules are a synthesis, not timings
 verified by the article or Tefal. Cooking time starts after loading and
@@ -190,6 +191,47 @@ allow the appliance to cool between trials or record the hot start and
 check earlier. Use the guide's trial-record template, preserve actual
 times/settings, and change only one variable in each later comparison.
 Use the same complete-cooling and airtight-storage approach as for almonds.
+
+### walnuts-001: completed, reported 2026-10-19
+
+| Field | Actual observation |
+| --- | --- |
+| Status | Completed; cooled taste and smell described as perfect |
+| Cooking date | Not separately specified; feedback received 2026-10-19 |
+| Food | Walnuts; exact brand, initial preparation and piece sizes not reported |
+| Mass | More than 100 g, possibly closer to 200 g; not weighed precisely |
+| Layer | Single layer; the bowl surface accommodated the batch |
+| Preset, temperature and preheat | Not reported; do not substitute the proposed Cookies / 150 C / 3 min values |
+| Cooking sequence | 4 min initially, then 2 min, then a final 2 min |
+| Total cooking time | 8 min; preheat, if any, not included in this reported sequence |
+| Shake/stir times | Not reported |
+| Colour | Some pieces brownish, others whitish, similar to the almond variation |
+| Visibility | Exposed kernel areas made roast colour easier to see than through almond skins |
+| Fully cooled assessment | Taste and smell described as perfect |
+| Crunch | Not separately reported |
+
+This is a successful sensory result, not yet a fully reproducible recipe:
+the temperature, preset, preheat and precise load remain unknown. There is
+no need to darken every piece simply to remove colour variation when the
+cooled flavour is already satisfactory. For another walnut batch, first
+record those missing settings and weigh the load; preserve the successful
+approach rather than automatically increasing heat or time.
+
+### Sensory assessment: almonds and walnuts
+
+The user reported that the characteristic aroma was harder to perceive
+immediately after roasting both nuts, and attributed this to becoming
+accustomed to the smell during roasting. A break in outside air and
+drinking water were suggested by the user as helpful before reassessment.
+After cooling, taste and smell were described as perfect.
+
+Record this as a personal observation consistent with olfactory adaptation,
+not proof of a particular physiological mechanism or that water resets
+smell perception. Practically, allow cooling and take a break from the
+cooking aromas before assessing flavour and smell. A temporarily faint
+aroma is not by itself a reason to keep roasting; combine timed checks,
+colour and cooled sampling. Smell remains a quality clue, not a food-safety
+test.
 
 ## Sources
 
